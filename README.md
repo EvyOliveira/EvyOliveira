@@ -15,6 +15,10 @@ I am passionate about technology and programming and seek to evolve technically 
 	<img src="https://camo.githubusercontent.com/35b14b228e430c7f39f7a176007450936c99c9db42d170119d88d63044b27070/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d626c61636b3f267374796c653d666c61742d737175617265266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="medium" data-canonical-src="https://img.shields.io/badge/medium-black?&amp;style=flat-square&amp;logo=medium&amp;logoColor=white" style="max-width:100%;">
 </a>
 </div>
+
+![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=evyoliveira&show_icons=true&theme=dark&hide_border=true&cache_seconds=2000&include_all_commits=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evyoliveira&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/evyoliveira/github-readme-stats)
 <!--
 **EvyOliveira/EvyOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
