@@ -16,6 +16,52 @@ I am passionate about technology and programming and seek to evolve technically 
 </a>
 </div>
 
+#### My development stack:
+<p>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/jquery.svg" alt="jquery" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/materialize.svg" alt="materialize" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/react.svg" alt="reactjs" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/css3.svg" alt="css3" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/html.svg" alt="html5" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="javascript" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/sass.svg" alt="sass" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/services/aws.svg" alt="aws" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/services/npm.svg" alt="npm" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/docker.svg" alt="docker" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="max-width:100%;">
+  </a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/powershell.svg" alt="powersheel" style="max-width:100%;">
+  </a>
+</p>
+
 ![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=evyoliveira&show_icons=true&theme=dark&hide_border=true&cache_seconds=2000&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evyoliveira&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/evyoliveira/github-readme-stats)
