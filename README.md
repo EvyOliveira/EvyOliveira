@@ -22,7 +22,7 @@ Eu sou Evelyn Cristini Oliveira. Tenho 23 anos e atualmente estou cursando o úl
 </a>
 </div>
 
-#### My development stack:
+#### My main development stack:
 <p>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/96a539d0f4942d7f622d96b43372b8e6038ff508e690609b1ffc1fc3108025bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3030303f266c6f676f3d68746d6c35266c6f676f436f6c6f723d453334463236"><img src="https://camo.githubusercontent.com/96a539d0f4942d7f622d96b43372b8e6038ff508e690609b1ffc1fc3108025bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3030303f266c6f676f3d68746d6c35266c6f676f436f6c6f723d453334463236" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-000?&amp;logo=html5&amp;logoColor=E34F26" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9aa9859905af6a3b26edde4a73cf1974ed9ae204b16f24f4b704b5cafe1159c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3030303f266c6f676f3d63737333266c6f676f436f6c6f723d313537324236"><img src="https://camo.githubusercontent.com/9aa9859905af6a3b26edde4a73cf1974ed9ae204b16f24f4b704b5cafe1159c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3030303f266c6f676f3d63737333266c6f676f436f6c6f723d313537324236" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-000?&amp;logo=css3&amp;logoColor=1572B6" style="max-width:100%;"></a>
