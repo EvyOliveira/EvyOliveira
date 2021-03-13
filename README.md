@@ -3,7 +3,7 @@
 I am Evelyn Cristini Oliveira. I am 24 years old and currently studying my last semester of Systems Analysis & Development at FATEC Mogi das Cruzes. Throughout my journey in Programming Technology, I have interned in Software Quality Assurance, Support Team and, most recently, front-end development.
 I am passionate about technology and programming and seek to evolve technically as well as in soft skills. Presently, I am a student on the Campinas Tech Talents program focused on Node.js and API in partnership with [Sensedia](https://br.sensedia.com/).
 
-Eu sou Evelyn Cristini Oliveira. Tenho 23 anos e atualmente estou cursando o último semestre de Análise e Desenvolvimento de Sistemas na FATEC Mogi das Cruzes. Ao longo de minha jornada em Tecnologia de Programação, estagiei em Garantia de Qualidade de Software, Equipe de Suporte e, mais recentemente, desenvolvimento Front-end. Sou apaixonaa por tecnologia e programação e procuro evoluir tanto tecnicamente como em soft skills. Atualmente sou aluna do programa Campinas Tech Talents com foco em Node.js e API em parceria com a [Sensedia](https://br.sensedia.com/).
+Eu sou Evelyn Cristini Oliveira. Tenho 23 anos e atualmente estou cursando o último semestre de Análise e Desenvolvimento de Sistemas na FATEC Mogi das Cruzes. Ao longo de minha jornada em Tecnologia de Programação, estagiei em Garantia de Qualidade de Software, Equipe de Suporte e, mais recentemente, desenvolvimento Front-end. Sou apaixonada por tecnologia e programação e procuro evoluir tanto tecnicamente como em soft skills. Atualmente sou aluna do programa Campinas Tech Talents com foco em Node.js e API em parceria com a [Sensedia](https://br.sensedia.com/).
 
 #### 📫 How to reach me:
 <div align="center">
